@@ -1,2 +1,2 @@
-#Script
+# Script
 Hey Fuad, try this
